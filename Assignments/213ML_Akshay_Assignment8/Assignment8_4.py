@@ -10,7 +10,7 @@ def sumDigits(no):
 def sumDigitsR(no, sum = 0):
     if (no < 1):
         return sum
-    
+
     lastDigit = int(no % 10)
     sum = sum + lastDigit
     no = no / 10
@@ -18,7 +18,7 @@ def sumDigitsR(no, sum = 0):
     return sumDigitsR(no, sum)
 
 def main():
-    print('Print a pattern using recursive function')
+    print('Calculate sum of a digits in number using recursive function')
     inputNumber = int(input('Enter a number : '))
     print('Sum of digits in number {} is : {}'. format(inputNumber, sumDigitsR(inputNumber)))
 
