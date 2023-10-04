@@ -1,0 +1,56 @@
+________________________________________________________________________________
+Marvellous Infosystems Process Logger: Thu Sep 28 10:48:36 2023
+________________________________________________________________________________
+
+{'pid': 1, 'name': 'init(Ubuntu-20.', 'username': 'root', 'vms': 2.26953125}
+{'pid': 4, 'name': 'init', 'username': 'root', 'vms': 2.3359375}
+{'pid': 139, 'name': 'SessionLeader', 'username': 'root', 'vms': 2.27734375}
+{'pid': 140, 'name': 'Relay(141)', 'username': 'root', 'vms': 2.29296875}
+{'pid': 141, 'name': 'docker-desktop-user-distro', 'username': 'root', 'vms': 713.828125}
+{'pid': 154, 'name': 'Relay(155)', 'username': 'root', 'vms': 2.29296875}
+{'pid': 155, 'name': 'docker', 'username': 'akshay', 'vms': 741.41796875}
+{'pid': 223, 'name': 'SessionLeader', 'username': 'root', 'vms': 2.2734375}
+{'pid': 224, 'name': 'Relay(225)', 'username': 'root', 'vms': 2.2890625}
+{'pid': 225, 'name': 'sh', 'username': 'akshay', 'vms': 2.5546875}
+{'pid': 226, 'name': 'sh', 'username': 'akshay', 'vms': 2.5546875}
+{'pid': 233, 'name': 'node', 'username': 'akshay', 'vms': 599.7109375}
+{'pid': 305, 'name': 'sh', 'username': 'akshay', 'vms': 2.5546875}
+{'pid': 697, 'name': 'docker', 'username': 'akshay', 'vms': 741.91796875}
+{'pid': 726, 'name': 'com.docker.cli', 'username': 'akshay', 'vms': 1596.109375}
+{'pid': 824, 'name': 'docker', 'username': 'akshay', 'vms': 741.91796875}
+{'pid': 836, 'name': 'com.docker.cli', 'username': 'akshay', 'vms': 1596.109375}
+{'pid': 849, 'name': 'docker', 'username': 'akshay', 'vms': 742.16796875}
+{'pid': 858, 'name': 'docker', 'username': 'akshay', 'vms': 741.91796875}
+{'pid': 872, 'name': 'com.docker.cli', 'username': 'akshay', 'vms': 1596.359375}
+{'pid': 878, 'name': 'com.docker.cli', 'username': 'akshay', 'vms': 1595.859375}
+{'pid': 892, 'name': 'docker', 'username': 'akshay', 'vms': 741.66796875}
+{'pid': 903, 'name': 'com.docker.cli', 'username': 'akshay', 'vms': 1595.859375}
+{'pid': 20052, 'name': 'SessionLeader', 'username': 'root', 'vms': 2.27734375}
+{'pid': 20053, 'name': 'Relay(20054)', 'username': 'root', 'vms': 2.29296875}
+{'pid': 20054, 'name': 'bash', 'username': 'akshay', 'vms': 10.0625}
+{'pid': 20255, 'name': 'docker', 'username': 'akshay', 'vms': 741.671875}
+{'pid': 20267, 'name': 'com.docker.cli', 'username': 'akshay', 'vms': 1523.859375}
+{'pid': 20276, 'name': 'docker', 'username': 'akshay', 'vms': 741.671875}
+{'pid': 20288, 'name': 'com.docker.cli', 'username': 'akshay', 'vms': 1524.171875}
+{'pid': 20352, 'name': 'SessionLeader', 'username': 'root', 'vms': 2.2734375}
+{'pid': 20353, 'name': 'Relay(20354)', 'username': 'root', 'vms': 2.2890625}
+{'pid': 20354, 'name': 'sh', 'username': 'akshay', 'vms': 2.5546875}
+{'pid': 20355, 'name': 'sh', 'username': 'akshay', 'vms': 2.5546875}
+{'pid': 20360, 'name': 'sh', 'username': 'akshay', 'vms': 2.5546875}
+{'pid': 20364, 'name': 'node', 'username': 'akshay', 'vms': 936.6484375}
+{'pid': 20375, 'name': 'SessionLeader', 'username': 'root', 'vms': 2.28515625}
+{'pid': 20376, 'name': 'Relay(20377)', 'username': 'root', 'vms': 2.28515625}
+{'pid': 20377, 'name': 'node', 'username': 'akshay', 'vms': 589.1640625}
+{'pid': 20400, 'name': 'node', 'username': 'akshay', 'vms': 1021.6484375}
+{'pid': 20413, 'name': 'SessionLeader', 'username': 'root', 'vms': 2.28515625}
+{'pid': 20414, 'name': 'Relay(20417)', 'username': 'root', 'vms': 2.28515625}
+{'pid': 20417, 'name': 'node', 'username': 'akshay', 'vms': 591.1640625}
+{'pid': 20475, 'name': 'node', 'username': 'akshay', 'vms': 1028.8671875}
+{'pid': 20491, 'name': 'node', 'username': 'akshay', 'vms': 637.40625}
+{'pid': 20511, 'name': 'bash', 'username': 'akshay', 'vms': 10.0546875}
+{'pid': 28049, 'name': 'python3', 'username': 'akshay', 'vms': 193.52734375}
+{'pid': 28051, 'name': 'node', 'username': 'akshay', 'vms': 1141.34765625}
+{'pid': 28074, 'name': 'node', 'username': 'akshay', 'vms': 589.10546875}
+{'pid': 29185, 'name': 'dbus-launch', 'username': 'akshay', 'vms': 7.0}
+{'pid': 29186, 'name': 'dbus-daemon', 'username': 'akshay', 'vms': 6.97265625}
+{'pid': 32000, 'name': 'python3', 'username': 'akshay', 'vms': 25.97265625}
