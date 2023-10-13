@@ -2,7 +2,7 @@ from sklearn import tree
 
 def main():
     rough = 1
-    smooth = 0
+    smooth = 0 # Label encoading
     ballFeatures = [
         [35, rough],
         [47, rough],
